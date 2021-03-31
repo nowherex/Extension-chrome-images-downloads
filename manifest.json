@@ -1,0 +1,17 @@
+{
+  "name": "Fotos download manager",
+  "version": "0.01",
+  "description": "Google Chrome extension para baixar uma lista de imagens.",
+  "author": "Leonardo Guedes - https://github.com/nowherex",
+  "permissions": [
+    "downloads", "downloads.shelf","storage", "activeTab"
+  ],
+  "background":{
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
