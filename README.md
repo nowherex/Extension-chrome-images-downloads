@@ -21,4 +21,4 @@ Text taken from: https://developer.chrome.com/docs/extensions/mv2/getstarted/
 
 # Image:
 
-![alt text](imgs/01.jpg)
+![alt text](imgs/01.JPG)
